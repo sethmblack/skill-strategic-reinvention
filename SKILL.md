@@ -4,7 +4,7 @@ description: Guide individuals or organizations through intentional transformati
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.5080
+  version: 1.0.5081
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - strategic-reinvention
